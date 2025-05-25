@@ -1,0 +1,10 @@
+{
+  "total_processed": 25,
+  "successful_translations": 25,
+  "fallback_used": 0,
+  "failed_translations": 0,
+  "languages": {
+    "english": 25,
+    "hindi": 0
+  }
+}

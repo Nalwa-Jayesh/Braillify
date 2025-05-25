@@ -1,0 +1,352 @@
+[
+  {
+    "id": "web_1",
+    "source": "https://en.wikipedia.org/wiki/Braille",
+    "quality_score": 0.9,
+    "translation_metadata": {
+      "original_length": 512,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 84,
+      "compression_ratio": 0.001953125
+    }
+  },
+  {
+    "id": "web_2",
+    "source": "https://en.wikipedia.org/wiki/Braille",
+    "quality_score": 0.86,
+    "translation_metadata": {
+      "original_length": 434,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 73,
+      "compression_ratio": 0.002304147465437788
+    }
+  },
+  {
+    "id": "web_3",
+    "source": "https://en.wikipedia.org/wiki/Braille",
+    "quality_score": 0.88,
+    "translation_metadata": {
+      "original_length": 692,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 102,
+      "compression_ratio": 0.001445086705202312
+    }
+  },
+  {
+    "id": "web_4",
+    "source": "https://en.wikipedia.org/wiki/Braille",
+    "quality_score": 0.92,
+    "translation_metadata": {
+      "original_length": 588,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 96,
+      "compression_ratio": 0.0017006802721088435
+    }
+  },
+  {
+    "id": "web_5",
+    "source": "https://en.wikipedia.org/wiki/Braille",
+    "quality_score": 0.7,
+    "translation_metadata": {
+      "original_length": 337,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 47,
+      "compression_ratio": 0.002967359050445104
+    }
+  },
+  {
+    "id": "web_6",
+    "source": "https://en.wikipedia.org/wiki/Accessibility",
+    "quality_score": 0.82,
+    "translation_metadata": {
+      "original_length": 371,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 50,
+      "compression_ratio": 0.0026954177897574125
+    }
+  },
+  {
+    "id": "web_7",
+    "source": "https://en.wikipedia.org/wiki/Accessibility",
+    "quality_score": 0.82,
+    "translation_metadata": {
+      "original_length": 404,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 56,
+      "compression_ratio": 0.0024752475247524753
+    }
+  },
+  {
+    "id": "web_8",
+    "source": "https://en.wikipedia.org/wiki/Accessibility",
+    "quality_score": 0.67,
+    "translation_metadata": {
+      "original_length": 275,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 44,
+      "compression_ratio": 0.0036363636363636364
+    }
+  },
+  {
+    "id": "web_9",
+    "source": "https://en.wikipedia.org/wiki/Accessibility",
+    "quality_score": 0.86,
+    "translation_metadata": {
+      "original_length": 505,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 75,
+      "compression_ratio": 0.0019801980198019802
+    }
+  },
+  {
+    "id": "web_10",
+    "source": "https://en.wikipedia.org/wiki/Accessibility",
+    "quality_score": 0.85,
+    "translation_metadata": {
+      "original_length": 414,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 58,
+      "compression_ratio": 0.0024154589371980675
+    }
+  },
+  {
+    "id": "web_11",
+    "source": "https://en.wikipedia.org/wiki/Assistive_technology",
+    "quality_score": 1.0,
+    "translation_metadata": {
+      "original_length": 1635,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 222,
+      "compression_ratio": 0.0006116207951070336
+    }
+  },
+  {
+    "id": "web_12",
+    "source": "https://en.wikipedia.org/wiki/Assistive_technology",
+    "quality_score": 0.8,
+    "translation_metadata": {
+      "original_length": 397,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 59,
+      "compression_ratio": 0.0025188916876574307
+    }
+  },
+  {
+    "id": "web_13",
+    "source": "https://en.wikipedia.org/wiki/Assistive_technology",
+    "quality_score": 0.92,
+    "translation_metadata": {
+      "original_length": 617,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 83,
+      "compression_ratio": 0.0016207455429497568
+    }
+  },
+  {
+    "id": "web_14",
+    "source": "https://en.wikipedia.org/wiki/Assistive_technology",
+    "quality_score": 0.86,
+    "translation_metadata": {
+      "original_length": 632,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 81,
+      "compression_ratio": 0.0015822784810126582
+    }
+  },
+  {
+    "id": "web_15",
+    "source": "https://en.wikipedia.org/wiki/Assistive_technology",
+    "quality_score": 0.98,
+    "translation_metadata": {
+      "original_length": 1354,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 192,
+      "compression_ratio": 0.0007385524372230429
+    }
+  },
+  {
+    "id": "gutenberg_1",
+    "source": "https://www.gutenberg.org/files/74/74-0.txt",
+    "quality_score": 0.25,
+    "translation_metadata": {
+      "original_length": 56,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 9,
+      "compression_ratio": 0.017857142857142856
+    }
+  },
+  {
+    "id": "gutenberg_2",
+    "source": "https://www.gutenberg.org/files/74/74-0.txt",
+    "quality_score": 0.33,
+    "translation_metadata": {
+      "original_length": 108,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 14,
+      "compression_ratio": 0.009259259259259259
+    }
+  },
+  {
+    "id": "gutenberg_3",
+    "source": "https://www.gutenberg.org/files/74/74-0.txt",
+    "quality_score": 0.27,
+    "translation_metadata": {
+      "original_length": 73,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 7,
+      "compression_ratio": 0.0136986301369863
+    }
+  },
+  {
+    "id": "gutenberg_4",
+    "source": "https://www.gutenberg.org/files/74/74-0.txt",
+    "quality_score": 0.31,
+    "translation_metadata": {
+      "original_length": 88,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 11,
+      "compression_ratio": 0.011363636363636364
+    }
+  },
+  {
+    "id": "gutenberg_5",
+    "source": "https://www.gutenberg.org/files/74/74-0.txt",
+    "quality_score": 0.33,
+    "translation_metadata": {
+      "original_length": 99,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 10,
+      "compression_ratio": 0.010101010101010102
+    }
+  },
+  {
+    "id": "gutenberg_6",
+    "source": "https://www.gutenberg.org/files/74/74-0.txt",
+    "quality_score": 0.32,
+    "translation_metadata": {
+      "original_length": 108,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 9,
+      "compression_ratio": 0.009259259259259259
+    }
+  },
+  {
+    "id": "gutenberg_7",
+    "source": "https://www.gutenberg.org/files/74/74-0.txt",
+    "quality_score": 0.27,
+    "translation_metadata": {
+      "original_length": 63,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 9,
+      "compression_ratio": 0.015873015873015872
+    }
+  },
+  {
+    "id": "gutenberg_8",
+    "source": "https://www.gutenberg.org/files/74/74-0.txt",
+    "quality_score": 0.26,
+    "translation_metadata": {
+      "original_length": 61,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 9,
+      "compression_ratio": 0.01639344262295082
+    }
+  },
+  {
+    "id": "gutenberg_9",
+    "source": "https://www.gutenberg.org/files/74/74-0.txt",
+    "quality_score": 0.29,
+    "translation_metadata": {
+      "original_length": 75,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 9,
+      "compression_ratio": 0.013333333333333334
+    }
+  },
+  {
+    "id": "gutenberg_10",
+    "source": "https://www.gutenberg.org/files/74/74-0.txt",
+    "quality_score": 0.26,
+    "translation_metadata": {
+      "original_length": 69,
+      "braille_length": 1,
+      "table_used": "en-us-g2.ctb",
+      "language": "english",
+      "grade": 2,
+      "word_count": 8,
+      "compression_ratio": 0.014492753623188406
+    }
+  }
+]

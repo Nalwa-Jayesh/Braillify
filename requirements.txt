@@ -1,0 +1,8 @@
+pytesseract
+Pillow
+beautifulsoup4
+langdetect
+python-liblouis
+requests
+opencv-contrib-python
+numpy

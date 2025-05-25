@@ -1,0 +1,415 @@
+{
+  "english": {
+    "text": [
+      "Braille ( ˈbreɪl BRAYL, French: [bʁaj] i) is a tactile writing system used by blind or visually impaired people. It can be read either on embossed paper or by using refreshable braille displays that connect to computers and smartphone devices. Braille can be written using a slate and stylus, a braille writer, an electronic braille notetaker or with the use of a computer connected to a braille embosser. For blind readers, braille is an independent writing system, rather than a code of printed orthography.[1]",
+      "Braille is named after its creator, Louis Braille, a Frenchman who lost his sight as a result of a childhood accident. In 1824, at the age of fifteen, he developed the braille code based on the French alphabet as an improvement on night writing. He published his system, which subsequently included musical notation, in 1829.[2] The second revision, published in 1837, was the first binary form of writing developed in the modern era.",
+      "Braille characters are formed using a combination of six raised dots arranged in a 3 2 matrix, called the braille cell. The number and arrangement of these dots distinguishes one character from another. Since the various braille alphabets originated as transcription codes for printed writing, the mappings (sets of character designations) vary from language to language, and even within one; in English braille there are three levels: uncontracted - a letter-by-letter transcription used for basic literacy; contracted - an addition of abbreviations and contractions used as a space-saving mechanism; and grade 3 - various non-standardized personal stenographies that are less commonly used.",
+      "In addition to braille text (letters, punctuation, contractions), it is also possible to create embossed illustrations and graphs, with the lines either solid or made of series of dots, arrows, and bullets that are larger than braille dots. A full braille cell includes six raised dots arranged in two columns, each column having three dots.[3] The dot positions are identified by numbers from one to six.[3] There are 64 possible combinations, including no dots at all for a word space.[4] Dot configurations can be used to represent a letter, digit, punctuation mark, or even a word.[3]",
+      "Early braille education is crucial to literacy, education and employment among the blind. Despite the evolution of new technologies, including screen reader software that reads information aloud, braille provides blind people with access to spelling, punctuation and other aspects of written language less accessible through audio alone.",
+      "Accessibility is the design of products, devices, services, vehicles, or environments so as to be usable by disabled people.[1] The concept of accessible design and practice of accessible developments ensures both \"direct access\" (i.e. unassisted) and \"indirect access\" meaning compatibility with a person's assistive technology (for example, computer screen readers).[2]",
+      "Accessibility can be viewed as the \"ability to access\" and benefit from some system or entity. The concept focuses on enabling access for people with disabilities, or enabling access through the use of assistive technology; however, research and development in accessibility brings benefits to everyone.[3][4][5][6][7] Therefore, an accessible society should eliminate digital divide or knowledge divide.",
+      "Accessibility is not to be confused with usability, which is the extent to which a product (such as a device, service, or environment) can be used by specified users to achieve specified goals with effectiveness, efficiency, and satisfaction in a specified context of use.[8]",
+      "Accessibility is also strongly related to universal design, the process of creating products that are usable by the widest possible range of people, operating within the widest possible range of situations.[9] Universal design typically provides a single general solution that can accommodate people with disabilities as well as the rest of the population. By contrast, accessible design is focused on ensuring that there are no barriers to accessibility for all people, including those with disabilities.",
+      "The disability rights movement advocates equal access to social, political, and economic life which includes not only physical access but access to the same tools, services, organizations and facilities as non-disabled people (e.g., museums[10][11]). Article 9 of the United Nations Convention on the Rights of Persons with Disabilities commits signatories to provide for full accessibility in their countries.[12]",
+      "Assistive technology (AT) is a term for assistive, adaptive, and rehabilitative devices for people with disabilities and the elderly. Disabled people often have difficulty performing activities of daily living (ADLs) independently, or even with assistance. ADLs are self-care activities that include toileting, mobility (ambulation), eating, bathing, dressing, grooming, and personal device care. Assistive technology can ameliorate the effects of disabilities that limit the ability to perform ADLs. Assistive technology promotes greater independence by enabling people to perform tasks they were formerly unable to accomplish, or had great difficulty accomplishing, by providing enhancements to, or changing methods of interacting with, the technology needed to accomplish such tasks. For example, wheelchairs provide independent mobility for those who cannot walk, while assistive eating devices can enable people who cannot feed themselves to do so. Due to assistive technology, disabled people have an opportunity of a more positive and easygoing lifestyle, with an increase in \"social participation\", \"security and control\", and a greater chance to \"reduce institutional costs without significantly increasing household expenses.\"[1] In schools, assistive technology can be critical in allowing students with disabilities to access the general education curriculum. Students who experience challenges writing or keyboarding, for example, can use voice recognition software instead. Assistive technologies assist people who are recovering from strokes and people who have sustained injuries that affect their daily tasks.[2][3][4]",
+      "A recent study from India led by Dr Edmond Fernandes et al. from Edward Cynthia Institute of Public Health which was published in WHO SEARO Journal informed that geriatric care policies which address functional difficulties among older people will ought to be mainstreamed, resolve out-of-pocket spending for assistive technologies will need to look at government schemes for social protection.[5]",
+      "Adaptive technology and assistive technology are different. Assistive technology is something that is used to help disabled people,[6] while adaptive technology covers items that are specifically designed for disabled people and would seldom be used by a non-disabled person. In other words, assistive technology is any object or system that helps people with disabilities, while adaptive technology is specifically designed for disabled people.[7] Consequently, adaptive technology is a subset of assistive technology. Adaptive technology often refers specifically to electronic and information technology access.[8]",
+      "Occupational Therapy (OT) utilizes everyday occupations as a therapeutic tool for enhancing or enabling participation in healthy occupations to promote health and well-being (AOTA, 2020).[9] Occupations include activities of daily living (ADLs), instrumental activities of daily living (IADLs), health management, rest and sleep, education, work, play, leisure, and social participation (AOTA, 2020).[9] As occupational therapy professionals, we are uniquely trained to advocate for client-centered care that reduces barriers to participation in meaningful occupations and promotes overall well-being\" (Clark, Iqbal Myers, 2022)[10]",
+      "OT practitioners (OTP) utilize assistive technologies (AT) to modify environments and promote access and fit to facilitate independence. For example, voice activated smart home technology allows an individual to control devices such as light switches, thermostat, oven, blinds, and music from their location. OTP evaluate client's strengths and abilities and connects with desired tasks. OTP help empower the client to match specific goals to AT tools. The theoretical approaches or frameworks OTPs frequently use to guide a client's AT choices may include: 1) The HAAT model by Cook, Polgar Encarnaçāo (2015)[11] 2) The interdependence - Human Activity Assistive Technology Model (I-HAAT) by Lee, et al. (2020);[12] 3) The SETT Framework by Zabala (2005);[13] or 4) The Unified Theory of Acceptance and Use of Technology (UTAUT 2) by Venkatesh, Thong Xu (2012). Also, OTPs may seek advanced training through the Rehabilitation Engineering and Assistive Technology Society of North America (RESNA)[14] organization to receive their Assistive Technology Professional (ATP) Certification and or Seating and Mobility Specialist (SMS) Certification. Additional trainings and certifications may specialize in a focus area such as the Certified Assistive Technology Instructional Specialist for Individuals with Visual Impairments (CATISTM) (ACVREP, 2024).[15]",
+      "THE PROJECT GUTENBERG EBOOK THE ADVENTURES OF TOM SAWYER",
+      "CHAPTER I. Y-o-u-u Tom-Aunt Polly Decides Upon her Duty-Tom Practices Music-The Challenge-A Private Entrance",
+      "CHAPTER II. Strong Temptations-Strategic Movements-The Innocents Beguiled",
+      "CHAPTER III. Tom as a General-Triumph and Reward-Dismal Felicity-Commission and Omission",
+      "CHAPTER IV. Mental Acrobatics-Attending Sunday-School-The Superintendent- Showing off -Tom Lionized",
+      "CHAPTER VI. Self-Examination-Dentistry-The Midnight Charm-Witches and Devils-Cautious Approaches-Happy Hours",
+      "CHAPTER VII. A Treaty Entered Into-Early Lessons-A Mistake Made",
+      "CHAPTER VIII. Tom Decides on his Course-Old Scenes Re-enacted",
+      "CHAPTER IX. A Solemn Situation-Grave Subjects Introduced-Injun Joe Explains",
+      "CHAPTER X. The Solemn Oath-Terror Brings Repentance-Mental Punishment"
+    ],
+    "braille": [
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ",",
+      ","
+    ],
+    "metadata": [
+      {
+        "id": "web_1",
+        "source": "https://en.wikipedia.org/wiki/Braille",
+        "quality_score": 0.9,
+        "translation_metadata": {
+          "original_length": 512,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 84,
+          "compression_ratio": 0.001953125
+        }
+      },
+      {
+        "id": "web_2",
+        "source": "https://en.wikipedia.org/wiki/Braille",
+        "quality_score": 0.86,
+        "translation_metadata": {
+          "original_length": 434,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 73,
+          "compression_ratio": 0.002304147465437788
+        }
+      },
+      {
+        "id": "web_3",
+        "source": "https://en.wikipedia.org/wiki/Braille",
+        "quality_score": 0.88,
+        "translation_metadata": {
+          "original_length": 692,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 102,
+          "compression_ratio": 0.001445086705202312
+        }
+      },
+      {
+        "id": "web_4",
+        "source": "https://en.wikipedia.org/wiki/Braille",
+        "quality_score": 0.92,
+        "translation_metadata": {
+          "original_length": 588,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 96,
+          "compression_ratio": 0.0017006802721088435
+        }
+      },
+      {
+        "id": "web_5",
+        "source": "https://en.wikipedia.org/wiki/Braille",
+        "quality_score": 0.7,
+        "translation_metadata": {
+          "original_length": 337,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 47,
+          "compression_ratio": 0.002967359050445104
+        }
+      },
+      {
+        "id": "web_6",
+        "source": "https://en.wikipedia.org/wiki/Accessibility",
+        "quality_score": 0.82,
+        "translation_metadata": {
+          "original_length": 371,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 50,
+          "compression_ratio": 0.0026954177897574125
+        }
+      },
+      {
+        "id": "web_7",
+        "source": "https://en.wikipedia.org/wiki/Accessibility",
+        "quality_score": 0.82,
+        "translation_metadata": {
+          "original_length": 404,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 56,
+          "compression_ratio": 0.0024752475247524753
+        }
+      },
+      {
+        "id": "web_8",
+        "source": "https://en.wikipedia.org/wiki/Accessibility",
+        "quality_score": 0.67,
+        "translation_metadata": {
+          "original_length": 275,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 44,
+          "compression_ratio": 0.0036363636363636364
+        }
+      },
+      {
+        "id": "web_9",
+        "source": "https://en.wikipedia.org/wiki/Accessibility",
+        "quality_score": 0.86,
+        "translation_metadata": {
+          "original_length": 505,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 75,
+          "compression_ratio": 0.0019801980198019802
+        }
+      },
+      {
+        "id": "web_10",
+        "source": "https://en.wikipedia.org/wiki/Accessibility",
+        "quality_score": 0.85,
+        "translation_metadata": {
+          "original_length": 414,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 58,
+          "compression_ratio": 0.0024154589371980675
+        }
+      },
+      {
+        "id": "web_11",
+        "source": "https://en.wikipedia.org/wiki/Assistive_technology",
+        "quality_score": 1.0,
+        "translation_metadata": {
+          "original_length": 1635,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 222,
+          "compression_ratio": 0.0006116207951070336
+        }
+      },
+      {
+        "id": "web_12",
+        "source": "https://en.wikipedia.org/wiki/Assistive_technology",
+        "quality_score": 0.8,
+        "translation_metadata": {
+          "original_length": 397,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 59,
+          "compression_ratio": 0.0025188916876574307
+        }
+      },
+      {
+        "id": "web_13",
+        "source": "https://en.wikipedia.org/wiki/Assistive_technology",
+        "quality_score": 0.92,
+        "translation_metadata": {
+          "original_length": 617,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 83,
+          "compression_ratio": 0.0016207455429497568
+        }
+      },
+      {
+        "id": "web_14",
+        "source": "https://en.wikipedia.org/wiki/Assistive_technology",
+        "quality_score": 0.86,
+        "translation_metadata": {
+          "original_length": 632,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 81,
+          "compression_ratio": 0.0015822784810126582
+        }
+      },
+      {
+        "id": "web_15",
+        "source": "https://en.wikipedia.org/wiki/Assistive_technology",
+        "quality_score": 0.98,
+        "translation_metadata": {
+          "original_length": 1354,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 192,
+          "compression_ratio": 0.0007385524372230429
+        }
+      },
+      {
+        "id": "gutenberg_1",
+        "source": "https://www.gutenberg.org/files/74/74-0.txt",
+        "quality_score": 0.25,
+        "translation_metadata": {
+          "original_length": 56,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 9,
+          "compression_ratio": 0.017857142857142856
+        }
+      },
+      {
+        "id": "gutenberg_2",
+        "source": "https://www.gutenberg.org/files/74/74-0.txt",
+        "quality_score": 0.33,
+        "translation_metadata": {
+          "original_length": 108,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 14,
+          "compression_ratio": 0.009259259259259259
+        }
+      },
+      {
+        "id": "gutenberg_3",
+        "source": "https://www.gutenberg.org/files/74/74-0.txt",
+        "quality_score": 0.27,
+        "translation_metadata": {
+          "original_length": 73,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 7,
+          "compression_ratio": 0.0136986301369863
+        }
+      },
+      {
+        "id": "gutenberg_4",
+        "source": "https://www.gutenberg.org/files/74/74-0.txt",
+        "quality_score": 0.31,
+        "translation_metadata": {
+          "original_length": 88,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 11,
+          "compression_ratio": 0.011363636363636364
+        }
+      },
+      {
+        "id": "gutenberg_5",
+        "source": "https://www.gutenberg.org/files/74/74-0.txt",
+        "quality_score": 0.33,
+        "translation_metadata": {
+          "original_length": 99,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 10,
+          "compression_ratio": 0.010101010101010102
+        }
+      },
+      {
+        "id": "gutenberg_6",
+        "source": "https://www.gutenberg.org/files/74/74-0.txt",
+        "quality_score": 0.32,
+        "translation_metadata": {
+          "original_length": 108,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 9,
+          "compression_ratio": 0.009259259259259259
+        }
+      },
+      {
+        "id": "gutenberg_7",
+        "source": "https://www.gutenberg.org/files/74/74-0.txt",
+        "quality_score": 0.27,
+        "translation_metadata": {
+          "original_length": 63,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 9,
+          "compression_ratio": 0.015873015873015872
+        }
+      },
+      {
+        "id": "gutenberg_8",
+        "source": "https://www.gutenberg.org/files/74/74-0.txt",
+        "quality_score": 0.26,
+        "translation_metadata": {
+          "original_length": 61,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 9,
+          "compression_ratio": 0.01639344262295082
+        }
+      },
+      {
+        "id": "gutenberg_9",
+        "source": "https://www.gutenberg.org/files/74/74-0.txt",
+        "quality_score": 0.29,
+        "translation_metadata": {
+          "original_length": 75,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 9,
+          "compression_ratio": 0.013333333333333334
+        }
+      },
+      {
+        "id": "gutenberg_10",
+        "source": "https://www.gutenberg.org/files/74/74-0.txt",
+        "quality_score": 0.26,
+        "translation_metadata": {
+          "original_length": 69,
+          "braille_length": 1,
+          "table_used": "en-us-g2.ctb",
+          "language": "english",
+          "grade": 2,
+          "word_count": 8,
+          "compression_ratio": 0.014492753623188406
+        }
+      }
+    ]
+  },
+  "hindi": {
+    "text": [],
+    "braille": [],
+    "metadata": []
+  }
+}
